@@ -1,0 +1,1 @@
+# DjangoNinja-NextJs-Api
