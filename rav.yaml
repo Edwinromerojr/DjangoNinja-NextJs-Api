@@ -1,0 +1,7 @@
+scripts:
+  server:
+    - cd src && python manage.py runserver
+  makemigrations:
+    - cd src && python manage.py makemigrations
+  migrate:
+    - cd src && python manage.py migrate
